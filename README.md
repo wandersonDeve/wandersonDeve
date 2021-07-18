@@ -24,7 +24,7 @@
 
 <hr>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/wandersongsantos/)
-[<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>](https://codepen.io/Wanderlavo)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_black"/>](https://www.linkedin.com/in/wandersongsantos/)
+[<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_black"/>](https://codepen.io/Wanderlavo)
 
 ![Snake animation](https://github.com/wandersonDeve/wandersonDeve/blob/output/github-contribution-grid-snake.svg)
