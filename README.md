@@ -5,16 +5,16 @@
 
 <div style="display: inline_block">
   
-<a href="https://www.w3schools.com/js/">
+<a href="https://www.w3schools.com/js/" target="_blank" ></a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
   
-<a href="https://www.w3schools.com/python/default.asp">
+<a href="https://www.w3schools.com/python/default.asp" target="_blank" ></a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   
-<a href="https://www.w3schools.com/html/default.asp">
+  <a href="https://www.w3schools.com/html/default.asp" target="_blank" ></a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   
-<a href="https://www.w3schools.com/css/">
+<a href="https://www.w3schools.com/css/" target="_blank" ></a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   
 <a href="https://git-scm.com/">
