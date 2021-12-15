@@ -21,14 +21,20 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   
 <a href="https://www.w3schools.com/nodejs/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="javascript" width="40" height="40"/></a> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="NodeJs" width="40" height="40"/></a>
+
+<a href="https://nestjs.com/" target="_blank">
+<img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="NestJs" width="40" height="40"/></a>
+  
+<a href="https://www.prisma.io/" target="_blank">
+<img src="https://www.prisma.io/images/apple-touch-icon.png" alt="Prisma" width="40" height="40"/></a> 
 
 <a href="https://docs.mongodb.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="javascript" width="40" height="40"/></a>    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDb" width="40" height="40"/></a>    
 
 <a href="https://www.postgresql.org/docs/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
   
 </div>
 
