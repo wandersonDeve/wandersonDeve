@@ -45,4 +45,4 @@
 [<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" />](https://codepen.io/Wanderlavo)
 [<img src="https://img.shields.io/badge/-gmail-2EC866?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:wanderson.rcs@gmail.com)
 
-![Snake animation](https://github.com/wandersonDeve/wandersonDeve/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/wandersonDeve/wanderson/blob/output/github-contribution-grid-snake.svg)
