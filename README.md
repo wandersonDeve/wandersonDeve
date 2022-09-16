@@ -1,4 +1,4 @@
-<h2 align="center">Oi 👋! eu sou Wanderson Santos, Dev Backend NodeJs de São Paulo/SP</h2>
+<h2 align="center">Oi 👋! eu sou Wanderson Santos, Dev Backend NodeJs</h2>
 
 ###
 
