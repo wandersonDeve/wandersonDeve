@@ -62,8 +62,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/WandersonDeve/WandersonDeve/blob/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wandersonDeve" alt="wandersonDeve" /></a></p>
