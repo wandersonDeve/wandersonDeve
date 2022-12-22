@@ -58,7 +58,7 @@
 
 ###
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wandersonDeve&theme=darkhub" alt="wandersonDeve" /></a></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wandersonDeve&theme=darkhub&row=1" alt="wandersonDeve" /></a></p>
 
 [![@wanderlavo's Holopin board](https://holopin.io/api/user/board?user=wanderlavo)](https://holopin.io/@wanderlavo)
 
