@@ -1,12 +1,12 @@
 <img width=150% src="https://capsule-render.vercel.app/api?type=waving&width=150%&color=000000&fontColor=ffffff&height=300&section=header&text=Wanderson%20Santos&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=61&descAlign=52" />
 
 ###
-
+<!-- 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=WandersonDeve" height="150" alt="stats graph"  />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=WandersonDeve" height="150" alt="languages graph"  />
-</div>
+</div> -->
 
 ###
 
