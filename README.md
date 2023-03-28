@@ -10,9 +10,18 @@
 
 ###
 
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wandersonDeve&theme=darkhub&row=1" alt="wandersonDeve" /></a></p>
+
+###
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wandersonDeve&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ###
+
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wandersonDeve&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wandersonDeve&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+| ----------- | ----------- |
+ 
+ ###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
@@ -59,8 +68,6 @@
 <br clear="both">
 
 ###
-
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wandersonDeve&theme=darkhub&row=1" alt="wandersonDeve" /></a></p>
 
 [![@wanderlavo's Holopin board](https://holopin.io/api/user/board?user=wanderlavo)](https://holopin.io/@wanderlavo)
 
