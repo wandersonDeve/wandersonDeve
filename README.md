@@ -10,15 +10,15 @@
 
 ###
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wandersonDeve&theme=darkhub&row=1" alt="wandersonDeve" /></a></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wandersonDeve&theme=tokyonight&row=1" alt="wandersonDeve" /></a></p>
 
 ###
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wandersonDeve&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wandersonDeve&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ###
 
-| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wandersonDeve&theme=radical&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wandersonDeve&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wandersonDeve&theme=tokyonight&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wandersonDeve&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
 | ----------- | ----------- |
  
  ###
