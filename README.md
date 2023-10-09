@@ -43,6 +43,6 @@
 
 ###
 
-[![@wanderlavo's Holopin board](https://holopin.io/api/user/board?user=wanderlavo)](https://holopin.io/@wanderlavo)
+[![@wanderlavo's Holopin board](https://holopin.me/wanderlavo)](https://holopin.io/@wanderlavo)
 
 ###
